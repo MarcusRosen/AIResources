@@ -5,6 +5,7 @@
 
 **Prompt Engineering**
 - https://www.promptingguide.ai/
+- https://github.com/asgeirtj/system_prompts_leaks (System Prompt Leaks)
 
 **Structured Outputs**
 - https://python.useinstructor.com/
