@@ -10,6 +10,6 @@
 **Structured Outputs**
 - https://python.useinstructor.com/
 
-** User Interfaces **
+**User Interfaces**
 - https://docs.openwebui.com/
 - https://www.gradio.app/
