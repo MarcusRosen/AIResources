@@ -3,6 +3,10 @@
 **LLM Leader Boards**
 - https://www.vellum.ai/llm-leaderboard
 
+**Evaluation**
+- https://awslabs.github.io/agent-evaluation/
+- https://docs.ragas.io/en/stable/
+
 **Prompt Engineering**
 - https://www.promptingguide.ai/
 - https://github.com/asgeirtj/system_prompts_leaks (System Prompt Leaks)
