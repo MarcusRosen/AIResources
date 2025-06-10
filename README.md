@@ -6,6 +6,7 @@
 **Evaluation**
 - https://awslabs.github.io/agent-evaluation/
 - https://docs.ragas.io/en/stable/
+- https://www.promptfoo.dev/
 
 **Prompt Engineering**
 - https://www.promptingguide.ai/
