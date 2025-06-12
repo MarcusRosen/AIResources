@@ -18,3 +18,6 @@
 **User Interfaces**
 - https://docs.openwebui.com/
 - https://www.gradio.app/
+
+**General Resources**
+- https://github.com/Shubhamsaboo/awesome-llm-apps
