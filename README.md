@@ -19,5 +19,8 @@
 - https://docs.openwebui.com/
 - https://www.gradio.app/
 
+**MCP and Related**
+- https://github.com/aws-samples/sample-serverless-mcp-servers
+
 **General Resources**
 - https://github.com/Shubhamsaboo/awesome-llm-apps
